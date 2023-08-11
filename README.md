@@ -14,3 +14,6 @@ To use this application, follow the instructions below:
 
 1. Clone the repository or download the code files.
 2. Open the HTML file (index.html) in a web browser.
+
+[Passwords Generator](https://heartfelt-kashata-9ebc2c.netlify.app/)
+![Random passwords generator](/generated%20passwords.png)
